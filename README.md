@@ -5,7 +5,7 @@ the ip address of the Proxy
 
 Run:
 
-To use the ProxyList python file run the following command
+To use ProxyList run the following command
 
 python3 ProxyList.py
 
