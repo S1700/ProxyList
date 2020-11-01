@@ -1,12 +1,12 @@
-#PROXYLIST
+PROXYLIST
 
-#Introdution: 
+Introdution: 
 
 This python file send a API request to a website and with your inputs prints 
 the ip address of the Proxy
 
 
-#Run:
+Run:
 
 To use ProxyList run the following command
 
